@@ -5,7 +5,7 @@ A feltelepített MyBible alkalmazásban nyisd meg az alábbi menüpontot:
 
 Állítsd be a custom repository-nak ezt az URL-t
 
-```https://szisti82.github.io/mmm/mmm.json```
+```https://szisti82.github.io/mmm/mmm.registry.json```
 
 Eztán frissítés és már tudod is letölteni a modulokat
 
