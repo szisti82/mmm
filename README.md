@@ -1,9 +1,12 @@
 # MyBible magyar modulok
+A feltelepített MyBible alkalmazásban nyisd meg az alábbi menüpontot:
+
+> Menü (3 pont)➡️Modulok ➡️Menü (3 pont) ➡️Extra modul könyvtárak ➡️Hozzáadás (+ jel) 
 
 Állítsd be a custom repository-nak ezt az URL-t
 
-> [https://szisti82.github.io/mmm/mmm.json](https://szisti82.github.io/mmm/mmm.json)
+```https://szisti82.github.io/mmm/mmm.json```
 
-Bővebb infók:
+Eztán frissítés és már tudod is letölteni a modulokat
 
-> [https://sites.google.com/view/mmmybible](https://sites.google.com/view/mmmybible)
+SDG
