@@ -2,4 +2,4 @@
 
 Állítsd be a custom repository-nak ezt az URL-t
 
-'https://szisti82.github.io/mmm/downloads.xml
+> https://szisti82.github.io/mmm/downloads.xml
