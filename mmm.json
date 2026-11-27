@@ -1,0 +1,111 @@
+{
+  "url": "https://szisti82.github.io/mmm/mmm.json",
+  "file_name": "mmm.json",
+  "description": "Magyar MyBible Modulok gyűjteménye",
+  "modules": [
+    {
+      "download_url": "https://szisti82.github.io/mmm/Cham-d.devotions.zip",
+      "file_name": "Cham-d.devotions.zip",
+      "language_code": "hu",
+      "description": "Oswald Chambers: Krisztus mindenek felett",
+      "update_date": "2026-11-27",
+      "update_info": "Frissített modul kiadás"
+    },
+    {
+      "download_url": "https://szisti82.github.io/mmm/Cseri-d.devotions.zip",
+      "file_name": "Cseri-d.devotions.zip",
+      "language_code": "hu",
+      "description": "Cseri Kálmán: Kegyelem Harmatja",
+      "update_date": "2026-11-27",
+      "update_info": "Frissített modul kiadás"
+    },
+    {
+      "download_url": "https://szisti82.github.io/mmm/Eich-d.devotions.zip",
+      "file_name": "Eich-d.devotions.zip",
+      "language_code": "hu",
+      "description": "Carl Eichhorn: Isten műhelyében",
+      "update_date": "2026-11-27",
+      "update_info": "Frissített modul kiadás"
+    },
+    {
+      "download_url": "https://szisti82.github.io/mmm/Mind-d.devotions.zip",
+      "file_name": "Mind-d.devotions.zip",
+      "language_code": "hu",
+      "description": "Czeglédi Sándor: Mindennapi Kenyerünk",
+      "update_date": "2026-11-27",
+      "update_info": "Frissített modul kiadás"
+    },
+    {
+      "download_url": "https://szisti82.github.io/mmm/Spurg-d.devotions.zip",
+      "file_name": "Spurg-d.devotions.zip",
+      "language_code": "hu",
+      "description": "C.H. Spurgeon: Isten ígéreteinek tárháza",
+      "update_date": "2026-11-27",
+      "update_info": "Frissített modul kiadás"
+    },
+    {
+      "download_url": "https://szisti82.github.io/mmm/TLiza-d.devotions.zip",
+      "file_name": "TLiza-d.devotions.zip",
+      "language_code": "hu",
+      "description": "Trausch Liza: Beszéded megelevenít",
+      "update_date": "2026-11-27",
+      "update_info": "Frissített modul kiadás"
+    },
+    {
+      "download_url": "https://szisti82.github.io/mmm/WillMcD-d.devotions.zip",
+      "file_name": "WillMcD-d.devotions.zip",
+      "language_code": "hu",
+      "description": "William MacDonald: Ösvényem világossága",
+      "update_date": "2026-11-27",
+      "update_info": "Frissített modul kiadás"
+    },
+    {
+      "download_url": "https://szisti82.github.io/mmm/ABhu-c.commentaries.zip",
+      "file_name": "ABhu-c.commentaries.zip",
+      "language_code": "hu",
+      "description": "Magyarázatos Biblia – A.C. Gabelein",
+      "update_date": "2026-11-27",
+      "update_info": "Frissített modul kiadás"
+    },
+    {
+      "download_url": "https://szisti82.github.io/mmm/Edwh-c.commentaries.zip",
+      "file_name": "Edwh-c.commentaries.zip",
+      "language_code": "hu",
+      "description": "Jonathan Edwards jegyzetei a Szentírásról",
+      "update_date": "2026-11-27",
+      "update_info": "Frissített modul kiadás"
+    },
+    {
+      "download_url": "https://szisti82.github.io/mmm/Kalvin-c.commentaries.zip",
+      "file_name": "Kalvin-c.commentaries.zip",
+      "language_code": "hu",
+      "description": "Kálvin kommentárjai",
+      "update_date": "2026-11-27",
+      "update_info": "Frissített modul kiadás"
+    },
+    {
+      "download_url": "https://szisti82.github.io/mmm/KChu-c.commentaries.zip",
+      "file_name": "KChu-c.commentaries.zip",
+      "language_code": "hu",
+      "description": "Kingcomments. Bibliatanulmányozás és témák. Írta Ger de Koning",
+      "update_date": "2026-11-27",
+      "update_info": "Frissített modul kiadás"
+    },
+    {
+      "download_url": "https://szisti82.github.io/mmm/SpgHu-c.commentaries.zip",
+      "file_name": "SpgHu-c.commentaries.zip",
+      "language_code": "hu",
+      "description": "Spurgeon igehely-magyarázatai a Bibliához",
+      "update_date": "2026-11-27",
+      "update_info": "Frissített modul kiadás"
+    },
+    {
+      "download_url": "https://szisti82.github.io/mmm/SRBHu-c.commentaries.zip",
+      "file_name": "SRBHu-c.commentaries.zip",
+      "language_code": "hu",
+      "description": "Scofield magyarázatos Biblia",
+      "update_date": "2026-11-27",
+      "update_info": "Frissített modul kiadás"
+    }
+  ]
+}
