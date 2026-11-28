@@ -1,4 +1,4 @@
-# MyBible magyar modulok
+# MyBible Magyar Modulok
 
 ## Beállítás
 
