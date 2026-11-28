@@ -1,15 +1,11 @@
-# MyBible Magyar Modulok
+# <img src="https://mybible.zone/wp-content/uploads/2021/11/cropped-cross_700_fields.png" height="50"> MyBible Magyar Modulok
 
 ![MyBible](https://mybible.zone/wp-content/uploads/2021/11/MyBible_Strong.jpg)
 
 ## MyBible
 A **MyBible** egy ingyenes, multifunkcionális és rugalmasan konfigurálható eszköz a Biblia olvasásához és tanulmányozásához. A programhoz többszáz kölönféle modul érhető el, a világ minden nyelvén. Több száz Biblia, kommentár, szótár, napi áhítat, lexikonok, stb.
 
-A program hivatalos oldala 
-
-![MyBible Logo](https://mybible.zone/wp-content/uploads/2021/11/cropped-cross_700_fields.png)
-
-[https://mybible.zone/](https://mybible.zone/)
+> A program hivatalos oldala: ➡️ [https://mybible.zone/](https://mybible.zone/)
 
 ## Magyar modulok
 
@@ -19,7 +15,7 @@ A **MyBible** jelenlegi moduljai között már most is rengeteg magyar tartalom 
 
 Ez a kiegészítő modul könyvtár jelenleg 
 
-* 6 db magyar nyelvű kommentárt
+* 6 db magyar nyelvű kommentárt (gépi fordításban)
 * 7 db magyar nyelvű napi áhítatos könyvet tartalmaz
 
 ## Beállítás
